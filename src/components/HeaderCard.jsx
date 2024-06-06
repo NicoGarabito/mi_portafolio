@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from '../assets/profile.jpg'; // Asegúrate de tener una imagen de perfil en esta ruta
+import profilePic from '../assets/profile.jpg';
 
 const HeaderCard = () => {
   return (
